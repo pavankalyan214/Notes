@@ -1,0 +1,4 @@
+Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are interconnected fields within computer science, each with distinct characteristics:
+	• Artificial Intelligence (AI): The broadest concept, AI encompasses the development of computer systems capable of performing tasks that typically require human intelligence, such as problem-solving, understanding natural language, and recognizing patterns.
+	• Machine Learning (ML): A subset of AI, ML involves training algorithms on data to enable systems to learn from experiences and improve their performance over time without explicit programming.
+	• Deep Learning (DL): A specialized subset of ML, DL utilizes artificial neural networks with multiple layers to model complex patterns in data, excelling in tasks like image and speech recognition.

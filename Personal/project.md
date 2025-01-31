@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36d974a2-708d-4ee4-8059-2c068961976e)![image](https://github.com/user-attachments/assets/dcfb22dc-0103-41d3-9524-6d4360ada6ed)![image](https://github.com/user-attachments/assets/6f1548e1-f97d-4d84-8bf3-4997e009866c)![image](https://github.com/user-attachments/assets/2d539164-e992-4cf2-910f-c9196e269b5e)![image](https://github.com/user-attachments/assets/65ccdbaf-bd73-4d8e-be8e-9c64b47fa4f3)![image](https://github.com/user-attachments/assets/9c3ce6d5-2def-4911-9fe1-e4f71308ee29)![image](https://github.com/user-attachments/assets/ea95664c-a46a-4640-99da-0e00ab141920)
+![image](https://github.com/user-attachments/assets/ea95664c-a46a-4640-99da-0e00ab141920)
 
 Any Model developed on DataScience on-line or offline will be there in Modelfabric 
 
